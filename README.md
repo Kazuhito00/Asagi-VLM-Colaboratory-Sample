@@ -1,6 +1,10 @@
 # Asagi-VLM-Colaboratory-Sample
 Colaboratory上で[Asagi: 合成データセットを活用した大規模日本語VLM](https://uehara-mech.github.io/asagi-vlm?v=1)をお試しするサンプルです。<bR>
 
+> [!NOTE]
+> Hugging FaceのAPIキーを「HF_KEY」に指定する必要があります<br>
+> また、AsagiはGated modelsのため、Hugging Faceの[該当ページ](https://huggingface.co/collections/MIL-UT/asagi-vlm-67b973a2b1fbda376b0ccf5d)にてアクセスリクエストを実施する必要があります。
+
 ![image](https://github.com/user-attachments/assets/5841a8f7-3d96-4b24-92d3-0a75a0a30843)
 
 # Usage
